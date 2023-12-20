@@ -1,4 +1,4 @@
-# spa-performed
+# SPA performed
 
 ## Descrizione
 "spa-performed" è un progetto di Single Page Application (SPA) che utilizza PHP per recuperare dinamicamente le pagine da una sottodirectory e visualizzarle sul front-end. L'applicazione consente agli utenti di navigare tra le diverse pagine senza dover ricaricare l'intera pagina.

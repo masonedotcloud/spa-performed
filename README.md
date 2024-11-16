@@ -21,9 +21,11 @@
 4. Assicurarsi che il server web abbia i permessi corretti per accedere ai file all'interno della directory "pages".
 5. Avviare il server web locale e accedere all'applicazione tramite il browser.
 
-## Contributi
-Sono benvenuti i contributi a questo progetto. Se si desidera collaborare, è possibile aprire una nuova issue o inviare una pull request.
-
 ## Licenza
-Questo progetto è distribuito con la licenza MIT. 
 
+Questo progetto è distribuito sotto la Licenza MIT - vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+
+## Autore
+
+Questo progetto è stato creato da [alessandromasone](https://github.com/alessandromasone).
